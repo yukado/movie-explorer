@@ -29,7 +29,7 @@ Bei Fragen oder Feedback:
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YusufDeinBenutzername/movie-explorer.git
+git clone https://github.com/yukado/movie-explorer.git
 cd movie-explorer
 npm install
 🔑 API Key

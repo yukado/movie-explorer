@@ -49,3 +49,6 @@ movie-explorer/
 ├── .gitignore
 ├── README.md
 └── package.json
+## 🚀 Live Demo
+[Movie Explorer on Vercel](https://movie-explorer-tau-gold.vercel.app)
+
